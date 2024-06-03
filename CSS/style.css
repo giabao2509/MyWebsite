@@ -50,7 +50,7 @@
 
 #banner {
     width: 100%;
-    background-image :url("../CSS/banner.png");
+    background-image :url("../RES/banner.png");
     height: 463px;
     margin-top:40px;
     display: flex;
@@ -256,7 +256,7 @@
 }
 
 #saleoff .box-right {
-    background-image:url("../CSS/off.png");
+    background-image:url("../RES/off.png");
 }
 
 
