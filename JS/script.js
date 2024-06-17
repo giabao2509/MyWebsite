@@ -26,3 +26,17 @@ prev.addEventListener('click', function (event) {
   comment.style.transform = `translateY(${translateY}px)`
   count++
 })
+@media only screen and (max-width: 400px) {
+    .container {
+        padding: 5px;
+    }
+
+    .header {
+        font-size: 1.5em;
+    }
+
+    .content {
+        padding: 0.5em;
+    }
+}
+
